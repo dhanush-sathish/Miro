@@ -1,0 +1,31 @@
+.btn {
+    background-color: #4262FF;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: #4262FF;
+    border-radius: 40px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+/* Header */
+header {
+    background-color: aquamarine;
+    max-height: 90px;
+}
+
+header ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    display: inline;
+}
+
+header a {
+    text-decoration: none;
+    display: inline;
+    color: #050038;
+}
